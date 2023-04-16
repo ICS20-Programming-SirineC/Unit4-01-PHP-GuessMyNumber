@@ -1,0 +1,25 @@
+/* Created by: Sirine Cherkaoui
+ * Created on: April 2023
+ * This CSS file defines the style for index.php
+ * ICS2O-Unit4-01-PHP-GuessMyNumber
+*/
+
+form {
+  background-color: #e9fbec
+;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h1 { 
+  background-color: #e9ecfb;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+body { 
+  background-color: #fbfbe9;
+}
